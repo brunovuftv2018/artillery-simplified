@@ -83,7 +83,7 @@
   "description": "Flexible and powerful toolkit for load and functional testing",
   "devDependencies": {
     "bats": "^0.4.2",
-    "bcrypt": "^2.0.1",
+    "bcrypt": "^5.0.0",
     "cookie-parser": "^1.4.3",
     "eslint": "^0.21.2",
     "express": "^4.16.3",
